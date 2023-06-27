@@ -1,0 +1,10 @@
+# venv
+Include
+Lib
+Scripts
+
+# Jupyter Notebook
+share
+
+# Misc
+requirements.txt
